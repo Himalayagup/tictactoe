@@ -7,4 +7,5 @@ Game is of two types
   b) second for player vs computer
 Game will show you all the hint to play the game
 
+Please note both files are in .py format
 Thanks
